@@ -25,7 +25,7 @@ Passionate software developer focused on building scalable full-stack applicatio
 # 🏗️ Engineering Projects
 
 ## 📱 [FitNow](https://github.com/HariBalaji24/fitnow1) — AI Powered Fitness & Wellness Platform
-**PERN Stack • Gemini AI • PostgreSQL • OAuth **
+**PERN Stack • Gemini AI • PostgreSQL • OAuth**
 
 FitNow is a full-stack AI-driven fitness and wellness platform focused on personalized health tracking, workout generation, nutrition planning, and wellness assistance.
 
