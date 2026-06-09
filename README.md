@@ -1,4 +1,4 @@
-# ⚡ S Hari Balaji
+#  S Hari Balaji
 
 Passionate software developer focused on building scalable full-stack applications and continuously improving problem-solving skills through data structures, algorithms, and backend engineering. Currently exploring system design fundamentals, caching, and scalable architecture while developing AI-powered and user-centric applications.
 
@@ -24,7 +24,7 @@ Passionate software developer focused on building scalable full-stack applicatio
 
 # 🏗️ Projects
 
-## 📱 [FitNow](https://github.com/HariBalaji24/fitnow1) — AI Powered Fitness & Wellness Platform
+## 🏋️ [FitNow](https://github.com/HariBalaji24/fitnow1) — AI Powered Fitness & Wellness Platform
 **PERN Stack • Gemini AI • PostgreSQL • OAuth**
 
 FitNow is a full-stack AI-driven fitness and wellness platform focused on personalized health tracking, workout generation, nutrition planning, and wellness assistance.
