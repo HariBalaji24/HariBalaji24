@@ -22,7 +22,7 @@ Passionate software developer focused on building scalable full-stack applicatio
 
 ---
 
-# 🏗️ Projects
+# Projects
 
 ## 🏋️ [FitNow](https://github.com/HariBalaji24/fitnow1) — AI Powered Fitness & Wellness Platform
 **PERN Stack • Gemini AI • PostgreSQL • OAuth**
