@@ -88,7 +88,10 @@ Consistently practicing data structures and algorithms with a strong focus on pr
 
   <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=HariBalaji24&theme=tokyonight&hide_border=true"/>
 </p>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HariBalaji24/HariBalaji24/output/snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/HariBalaji24/HariBalaji24/output/snake.svg">
+</picture>
 
 
 ---
